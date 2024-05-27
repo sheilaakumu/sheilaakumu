@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sheila Opiyo
-- 👀 I’m interested in data science and data analytics
+- 👀 I’m interested in Data Science, Data Engineering and Data Analytics
 - 🌱 I’m currently learning R, MongoDB
 - 💞️ I’m looking to collaborate on Python, MySQL, Excel, Tableau, PowerBI projects
 - 📫 You can reach me through opiyosheila5@gmail.com
