@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning R, MongoDB
 - 💞️ I’m looking to collaborate on Python, MySQL, Excel, Tableau, PowerBI projects
 - 📫 You can reach me through opiyosheila5@gmail.com
-- ⚡ Fun fact: Am a Civil Engineer
+- ⚡ Fun fact: I'm a Civil Engineer
 
 <!---
 sheilaakumu/sheilaakumu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
